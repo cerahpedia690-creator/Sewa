@@ -1,0 +1,33 @@
+{
+  "developer": "FennXy Studios",
+  "game": "Apartment Tycoon: Pixel Life",
+  "minSdk": 26,
+  "orientation": "landscape",
+  "assetFolders": [
+    "characters",
+    "buildings",
+    "rooms",
+    "furniture",
+    "facilities",
+    "ui",
+    "icons",
+    "backgrounds",
+    "effects",
+    "animations",
+    "portraits"
+  ],
+  "defaultSprites": {
+    "player_idle": "characters/player_idle.png",
+    "tenant_worker_idle": "characters/tenant_worker_idle.png",
+    "tenant_student_idle": "characters/tenant_student_idle.png",
+    "apartment_exterior": "buildings/apartment_exterior.png",
+    "room_standard": "rooms/room_standard.png",
+    "room_deluxe": "rooms/room_deluxe.png",
+    "furniture_bed": "furniture/furniture_bed.png",
+    "furniture_sofa": "furniture/furniture_sofa.png",
+    "icon_money": "icons/icon_money.png",
+    "icon_happiness": "icons/icon_happiness.png",
+    "ui_button": "ui/ui_button.png",
+    "background_city": "backgrounds/background_city.png"
+  }
+}
